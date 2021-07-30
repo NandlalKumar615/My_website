@@ -1,0 +1,115 @@
+hr{
+    border-top: 8px dotted white;
+    background-color: black;
+    width: 40%;
+    margin: 50px auto 70px auto;
+}
+
+/* Body */
+body{
+    background-color: black;
+    color: white;
+}
+
+/* navbar */
+.navbar-brand{
+    font-size: 2rem;
+    margin-left: 3%;
+}
+.navbar{
+    margin-bottom: 196px;
+}
+.nav-item{
+    padding: 0 20px;
+    font-size: 1.2rem;
+}
+
+/* Top information */
+.profile_image{
+    background-color: #343a4094;
+    display: inline-block;
+    border-radius: 50%;
+
+}
+.profile{
+    border-radius: 50%;
+    width: 250px;
+    padding: 20px;
+}
+#info{
+    text-align: center;
+    margin-top: 150px;
+    line-height: 80px;
+}
+h1
+{
+    font-family: 'Parisienne', serif;
+    font-size: 3rem;
+    color: white;
+    font-weight: 900;
+}
+.student
+{
+    font-size: 1.7rem;
+    color: red;
+    margin-top: 0;
+    font-weight: 600;
+}
+
+/* details */
+.details{
+    text-align: center;
+}
+h2
+{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 3rem;
+    color: rgb(7, 104, 55);
+    font-weight: normal;
+}
+h3{
+    text-decoration: underline;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.gif{
+    width: 170px;
+    border-radius: 50px;
+    padding: 5% 0 5% 0;
+}
+.left{
+    margin: 5% 20% 0% 5%;
+    background-color: #343a4094;
+    border-radius: 50px;
+}
+.right{
+    margin: 5% 5% 0% 20%;
+    background-color: #343a4094;
+    border-radius: 50px;
+}
+.explain{
+    margin: 15px;
+    line-height: 30px;
+}
+
+/* Contact */
+
+.Contact{
+    background-color: #343a4094;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 50px;
+}
+
+/* footer */
+#footer{
+    text-align: center;
+    background-color: #343a4094;
+    color:white;
+    padding: 1% 0%;
+    margin-top: 70px;
+}
+.social-icon{
+    padding: 15px 8px;
+    color: white;
+}
